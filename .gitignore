@@ -1,5 +1,5 @@
 temfile.txt
-.DS_Store_
+.DS_Store
 *.zip
 *.gz
 log/.log
